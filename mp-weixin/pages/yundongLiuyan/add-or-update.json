@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#FFB296",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "运动教程留言添加/修改",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

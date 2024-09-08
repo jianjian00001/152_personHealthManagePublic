@@ -1,0 +1,118 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/register/register",
+    "pages/forget/forget",
+    "pages/changepassword/changepassword",
+    "pages/center/center",
+    "pages/user-info/userinfo",
+    "pages/forum/forum-index",
+    "pages/forum/forum-detail",
+    "pages/forum/forum-my",
+    "pages/forum/forum-add-or-update",
+    "pages/gerentizheng/list",
+    "pages/gerentizheng/list2",
+    "pages/gerentizheng/add-or-update",
+    "pages/gerentizheng/detail",
+    "pages/jiankangtieshi/list",
+    "pages/jiankangtieshi/list2",
+    "pages/jiankangtieshi/add-or-update",
+    "pages/jiankangtieshi/detail",
+    "pages/meirijihua/list",
+    "pages/meirijihua/list2",
+    "pages/meirijihua/add-or-update",
+    "pages/meirijihua/detail",
+    "pages/meishi/list",
+    "pages/meishi/list2",
+    "pages/meishi/add-or-update",
+    "pages/meishi/detail",
+    "pages/meishiCollection/list",
+    "pages/meishiCollection/list2",
+    "pages/meishiCollection/add-or-update",
+    "pages/meishiCollection/detail",
+    "pages/meishiLiuyan/list",
+    "pages/meishiLiuyan/list2",
+    "pages/meishiLiuyan/add-or-update",
+    "pages/meishiLiuyan/detail",
+    "pages/news/list",
+    "pages/news/list2",
+    "pages/news/add-or-update",
+    "pages/news/detail",
+    "pages/yaopin/list",
+    "pages/yaopin/list2",
+    "pages/yaopin/add-or-update",
+    "pages/yaopin/detail",
+    "pages/yonghu/list",
+    "pages/yonghu/list2",
+    "pages/yonghu/add-or-update",
+    "pages/yonghu/detail",
+    "pages/yundong/list",
+    "pages/yundong/list2",
+    "pages/yundong/add-or-update",
+    "pages/yundong/detail",
+    "pages/yundongCollection/list",
+    "pages/yundongCollection/list2",
+    "pages/yundongCollection/add-or-update",
+    "pages/yundongCollection/detail",
+    "pages/yundongLiuyan/list",
+    "pages/yundongLiuyan/list2",
+    "pages/yundongLiuyan/add-or-update",
+    "pages/yundongLiuyan/detail",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "个人健康管理系统小程序",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#FFFFFF",
+    "selectedColor": "#fff",
+    "borderStyle": "black",
+    "backgroundColor": "#5FAED0",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/index.png",
+        "selectedIconPath": "static/tabs/index1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/meishi/list",
+        "iconPath": "static/tabs/type.png",
+        "selectedIconPath": "static/tabs/type1.png",
+        "text": "健康食谱"
+      },
+      {
+        "pagePath": "pages/yundong/list",
+        "iconPath": "static/tabs/type.png",
+        "selectedIconPath": "static/tabs/type1.png",
+        "text": "运动教程"
+      },
+      {
+        "pagePath": "pages/forum/forum-index",
+        "iconPath": "static/tabs/order.png",
+        "selectedIconPath": "static/tabs/order1.png",
+        "text": "论坛"
+      },
+      {
+        "pagePath": "pages/center/center",
+        "iconPath": "static/tabs/mine.png",
+        "selectedIconPath": "static/tabs/mine1.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "小程序将使用定位功能"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation",
+    "chooseLocation"
+  ],
+  "usingComponents": {}
+}

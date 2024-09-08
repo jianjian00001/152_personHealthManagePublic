@@ -1,0 +1,132 @@
+
+.uqrcode.data-v-79966572 {
+  position: relative;
+}
+.uqrcode-hide.data-v-79966572 {
+  position: fixed;
+  left: 7500rpx;
+}
+.uqrcode-canvas.data-v-79966572 {
+  -webkit-transform-origin: top left;
+          transform-origin: top left;
+}
+.uqrcode-makeing.data-v-79966572 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.uqrcode-makeing-image.data-v-79966572 {
+
+  display: block;
+  max-width: 120px;
+  max-height: 120px;
+}
+.uqrcode-error.data-v-79966572 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.uqrcode-error-message.data-v-79966572 {
+  font-size: 12px;
+  color: #939291;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

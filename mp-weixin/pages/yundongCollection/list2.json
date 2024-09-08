@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#FFB296",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "我的运动教程收藏",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

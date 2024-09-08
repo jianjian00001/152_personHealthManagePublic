@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#FFB296",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "用户展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

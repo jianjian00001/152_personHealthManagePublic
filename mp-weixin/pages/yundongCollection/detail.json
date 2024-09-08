@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#FFB296",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "运动教程收藏详情",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "u-qrcode": "/uni_modules/Sansnn-uQRCode/components/u-qrcode/u-qrcode"
+  }
+}

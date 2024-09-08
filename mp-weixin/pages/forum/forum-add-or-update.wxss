@@ -1,0 +1,40 @@
+
+page {
+    background-color: #fff;
+}
+.container {
+    padding: 20rpx 24rpx;
+}
+.container:after {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    content: '';
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.cu-form-group {
+    padding: 0;
+    background-color: transparent;
+    min-height: inherit;
+}
+.cu-form-group+.cu-form-group {
+    border: 0;
+}
+.cu-form-group uni-input {
+    padding: 0 30rpx;
+}
+.cu-form-group uni-textarea {
+    padding: 30rpx;
+    margin: 0;
+}
+.cu-form-group uni-picker::after {
+    line-height: 80rpx;
+}
+.bg-red {
+    line-height: 80rpx;
+}
+
